@@ -4,7 +4,7 @@
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcn6&layout=compact)](https://github.com/dmlcn6/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcn6&layout=compact&langs_count=8)](https://github.com/dmlcn6/github-readme-stats)
 
 <!--
 **dmlcn6/dmlcn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
