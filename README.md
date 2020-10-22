@@ -10,7 +10,7 @@
 + Fish & Shrimp Breeding - Platies & Neocardinia Davadii
 + Photography - Landscape & Macro
 
-## :books: I’m currently learning :idea:
+## :books: I’m currently learning :bulb:
 + MERN Stack
 + JAM Stack 
 + NextJS/SSR ReactJS
