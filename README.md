@@ -6,7 +6,7 @@
 
 <p float="center">
 	<a href="https://github.com/dmlcn6/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=dmlcn6&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight&count_private=true" /></a>
-  <a href="https://github.com/dmlcn6/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcn6&layout=compact&theme=tokyonigh&count_private=truet"/></a>
+  <a href="https://github.com/dmlcn6/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcn6&layout=compact&theme=tokyonight&count_private=true"/></a>
  
 </p>
 
