@@ -2,15 +2,15 @@
 
  If I'm not coding, I could be messing with one of my tanks, taking pictures of stuff, or binging GOT (again).
 
-## 📈 GitHub Stats 📈 
+## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcn6&layout=compact&langs_count=8)](https://github.com/dmlcn6/github-readme-stats)
 
-## ✨ I’m currently working on ✨
+## ✨ I’m currently working on ...
 + AquaBuilds - Aquarium building website
 + Fish & Shrimp Breeding - Platies & Neocardinia Davadii
 + Photography - Landscape & Macro
 
-## :books: I’m currently learning :books:
+## :books: I’m currently learning ...
 + MERN Stack
 + JAM Stack 
 + NextJS/SSR ReactJS
