@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+***
+## 📈 GitHub Stats
+
+<p float="center">
+	<a href="https://github.com/dmlcn6/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=dmlcn6&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" /></a>
+  <a href="https://github.com/dmlcn6/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcn6&layout=compact&theme=tokyonight"/></a>
+ 
+</p>
 
 <!--
 **dmlcn6/dmlcn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
