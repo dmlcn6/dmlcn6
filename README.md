@@ -7,7 +7,7 @@
 
 ## ✨ I’m currently working on ...
 + AquaBuilds - Aquarium building website
-+ Fish & Shrimp Breeding - Platies & Neocardinia Davadii
++ Fish & Shrimp Breeding - Platyfish & Cherry Shrimp (neocaridina davidi)
 + Photography - Landscape & Macro
 
 ## :books: I’m currently learning ...
